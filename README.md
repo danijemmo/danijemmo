@@ -1,4 +1,3 @@
-![MasterHead]
 
 <h1 align="center">ሰላም / Hi 👋, I'm Daniel Jemmo</h1>
 <h3 align="center">Full Stack Developer</h3>
