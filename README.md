@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 <p align="left"> <a href="https://twitter.com/dani_jemo" target="blank"><img src="https://img.shields.io/twitter/follow/dani_jemo?logo=twitter&style=for-the-badge" alt="dani_jemo" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **anything that can help me enhance my skills**
 
